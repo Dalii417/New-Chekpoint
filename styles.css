@@ -1,0 +1,68 @@
+#html{font-family: 'Roboto';font-size: 22px;
+
+}
+.style{
+    font-family:roboto;
+background-image:url("./header.jpg");
+background-size: 1200px 1600px;
+}
+
+.name{
+    color: rgba(48, 25, 38, 0.767);
+    margin-left: 35%;
+    margin-top: 25%;
+    font-size: 57px;
+}
+
+.image_style {
+    margin-left: 29%;
+    margin-top: 2%;
+}
+.h4class{    margin-left: 37%;
+    font-size: 23px;
+color:rgba(48, 25, 38, 0.767) ;
+}
+.b1{margin-top: 2%}
+
+
+.nav{
+    font-size: 50px;
+    color: oldlace;
+}
+.b2{margin-left: 1%;
+    color: darkred;}
+    .b3{margin-left: 10%;
+    margin-top: 30%;
+    font-size: 33px;
+color: rgba(48, 25, 38, 0.767);
+}
+.b4{    margin-left: 31%;
+    margin-top: 23%;
+    font-size: 31px;
+color: rgba(48, 25, 38, 0.767);}
+    .b5{ margin-left: 31%;
+    margin-top: 7%;
+    font-size: 31px;
+color: rgba(48, 25, 38, 0.767);}
+
+
+    .b6{ margin-left: 31%;
+    margin-top: 7%;
+    font-size: 31px;
+color: rgba(48, 25, 38, 0.767);}
+
+    .b7{margin-left: 11%;
+    margin-top: 27%;
+    font-size: 39px;
+color: rgba(48, 25, 38, 0.767);}
+
+.b8{    margin-left: 29%;
+    margin-top: 26%;
+    font-size: 36px;
+color: rgba(48, 25, 38, 0.767);}
+
+
+    .b9{    margin-left: 29%;
+    margin-top: 1%;
+    font-size: 36px;
+color: rgba(48, 25, 38, 0.767);}
